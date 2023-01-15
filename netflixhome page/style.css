@@ -1,0 +1,350 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font: optional;
+    min-height: 450vh;
+    background-color: #141414;
+}
+
+header{
+    height: 70px;
+    width: 100%;
+    background-color: black;
+}
+.h1{
+    position: absolute;
+    top: 20px;
+    left: 70px;
+}
+.h2{
+    color: white;
+    position: absolute;
+    top: 30px;
+    left: 220px;
+    font-size: 13px;
+}
+.h3{
+    color:#E5E5E5;
+    position: absolute;
+    top: 30px;
+    left: 300px;
+    font-size: 13px;
+}
+.h4{
+    color: #E5E5E5;
+    position: absolute;
+    top: 30px;
+    left: 360px;
+    font-size: 13px;
+}
+.h5{
+    color: #E5E5E5;
+    position: absolute;
+    top: 30px;
+    left: 420px;
+    font-size: 13px;
+}
+.h6{
+    color: #E5E5E5;
+    position: absolute;
+    top: 30px;
+    left: 530px;
+    font-size: 13px;
+}
+.h7{
+    position: absolute;
+    top: 30px;
+    left: 1030px;
+}
+.h8{
+    color: #E5E5E5;
+    position: absolute;
+    top: 30px;
+    left: 1070px;
+}
+.h9{
+    position: absolute;
+    top: 30px;
+    left: 1150px;
+}
+.h10{
+    position: absolute;
+    top: 30px;
+    left: 1200px;
+}
+.h11{
+    position: absolute;
+    top: 25px;
+    left: 1250px;
+}
+.h12{
+    position: absolute;
+    top: 35px;
+    left: 1290px;
+}
+.section1{
+    background-image: url('./img/MoviePoster.png');
+    background-size:cover;
+    height: 670px;
+    width: 100%;
+}
+.section1text1{
+    font-size: 50px;
+    color: white;
+    padding-top: 170px;
+    padding-left: 70px;
+    font-weight: 200;
+}
+.section1text2{
+    font-size: 50px;
+    color: white;
+    padding-left: 180px;
+    font-weight: -8;
+    
+}
+.section1text3{
+    color: white;
+    padding-left: 100px;
+    font-size: 25px;
+    font-weight: bold;
+}
+.section1text4{
+    color: white;
+    padding-left: 100px;
+    font-size: 25px;
+    font-weight: lighter;
+}
+.section1text5{
+    background-color: white;
+    color: black;
+    /* padding-left: 100px; */
+    font-size: 15px;
+    font-weight: lighter;
+    margin-left: 100px;
+    width: 80px;
+    height: 100px;
+    border: 1px solid gray;
+}
+.section1text6{
+    color: white;
+    font-size: 25px;
+    font-weight: lighter;
+    box-sizing: border-box;
+}
+.section1text7{
+    color: white;
+    padding-left: 100px;
+    font-size: 25px;
+    font-weight: lighter;
+}
+.image2{
+    padding-left: 100px;
+    width: 200px;
+}
+/* .image3{}
+.image4{}
+.image5{}
+.image6{} */
+
+
+.section2{
+    height: 250px;
+    width: 100%;
+}
+.section2text1{
+    color: white;
+    padding-left: 100px;
+    padding-top: 40px;
+    font-size: 25px;
+    font-weight: lighter;
+}
+.image2b1{
+    padding-left: 100px;
+}
+.bar1{
+    padding-left: 100px;
+}
+.bar2{
+    padding-left: 70px;
+}
+.bar3{
+    padding-left: 70px;
+}
+.bar4{
+    padding-left: 70px;
+}
+.bar5{
+    padding-left: 70px;
+}
+
+
+ .section3{
+    height: 250px;
+    width: 100%;
+} 
+.section3text1{
+    color: white;
+    padding-left: 100px;
+    padding-top: 40px;
+    font-size: 25px;
+    font-weight: lighter;
+}
+.image3b1{
+    padding-left: 100px;
+}
+
+.section4{
+    height: 600px;
+    width: 100%;
+}
+.section4text1{
+    color: white;
+    padding-left: 100px;
+    padding-top: 40px;
+    font-size: 25px;
+    font-weight: lighter;
+}
+.image4b1{
+    padding-left: 100px;
+}
+
+
+.section5{
+    height: 300px;
+    width: 100%;
+}
+.section5text1{
+    color: white;
+    padding-left: 100px;
+    padding-top: 40px;
+    font-size: 25px;
+    font-weight: lighter;
+}
+.image5b1{
+    padding-left: 100px;
+}
+
+
+.section6{
+    height: 230px;
+    width: 100%;
+}
+.section6text1{
+    color: white;
+    padding-left: 100px;
+    padding-top: 40px;
+    font-size: 25px;
+    font-weight: lighter;
+}
+
+.section7{
+    height: 250px;
+    width: 100%;
+}
+.section7text1{
+    color: white;
+    padding-left: 100px;
+    padding-top: 40px;
+    font-size: 25px;
+    font-weight: lighter;
+}
+.image7b1{
+    padding-left: 100px;
+}
+
+
+footer{
+    padding-left: 280px;
+    width: 100%;
+    background-color:#141414;
+}
+.f2{
+    position: absolute;
+    left: 40px;
+}
+.f3{
+    position: absolute;
+    left: 80px;
+}
+.f4{
+    position: absolute;
+    left: 120px;
+}
+.footertext1{
+    color: gray;
+    position: absolute;
+    top: 167rem;
+    font-size: 13px;
+}
+.f1s2{
+    padding-left: 8rem;
+}
+.f1s3{
+    padding-left: 9rem;
+}
+.f1s4{
+    padding-left: 7rem;
+}
+.footertext2{
+    color: gray;
+    position: absolute;
+    top: 169rem;
+    font-size: 13px;
+}
+.f2s2{
+    padding-left: 10.6rem;
+}
+.f2s3{
+    padding-left: 8.5rem;
+}
+.f2s4{
+    padding-left: 8.4rem;
+}
+.footertext3{
+    color: gray;
+    position: absolute;
+    top: 171rem;
+    font-size: 13px;
+}
+.f3s2{
+    padding-left: 13.4rem;
+}
+.f3s3{
+    padding-left: 9rem;
+}
+.f3s4{
+    padding-left: 7.2rem;
+}
+.footertext4{
+    color: gray;
+    position: absolute;
+    top: 173rem;
+    font-size: 13px;
+}
+.footertext5{
+    color: gray;
+    position: absolute;
+    top: 175rem;
+    font-size: 13px;
+    border: 1px solid ;
+    height: 35px;
+    width: 90px;
+    padding-top: 8px;
+    padding-left: 7px;
+}
+.footertext6{
+    color: gray;
+    position: absolute;
+    top: 178rem;
+    font-size: 13px;
+}
+.footertext{
+    color: gray;
+    position: absolute;
+    top: 165rem;
+}

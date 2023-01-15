@@ -1,0 +1,64 @@
+
+
+body{
+    height: 100%;
+    width: 100%;
+    background-color: black;
+}
+
+
+.logo{
+    padding-left: 20px;
+    padding-top: 15px;
+}
+.text{
+    color: white;
+    font-size: 60px;
+    text-align: center;
+    padding-top: 8rem;
+}
+.logocomb{
+    word-spacing: 1.5cm;
+    padding-top: 20px;
+}
+.logo1{
+    padding-left: 5rem;
+}
+.textlogo{
+    padding-left: 5rem;
+    padding-top: 20px;
+}
+.textlogo1{
+    padding-left: 70px;
+    color:  rgba(109, 109, 110, 0.7);
+    font-size: 20px;
+}
+.textlogo2{
+    padding-left: 220px;
+    color:  rgba(109, 109, 110, 0.7);
+    font-size: 20px;
+}
+.textlogo3{
+    padding-left: 200px;
+    color:  rgba(109, 109, 110, 0.7);
+    font-size: 20px;
+}
+.textlogo4{
+    padding-left: 210px;
+    color:  rgba(109, 109, 110, 0.7);
+    font-size: 20px;
+}
+.textlogo5{
+    padding-left: 150px;
+    color:  rgba(109, 109, 110, 0.7);
+    font-size: 20px;
+}
+button{
+    background-color: black;
+    color:  rgba(109, 109, 110, 0.7);
+    border: 1px solid  rgba(109, 109, 110, 0.7);
+    margin-top: 30px;
+    height: 35px;
+    width: 300px;
+    font-size: 25px;
+}
